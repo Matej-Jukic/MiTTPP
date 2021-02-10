@@ -1,6 +1,8 @@
 # MiTTPP
 Projekt iz MiTTP-a
 
+Testirao sam web-trgovinu https://demo.opencart.com/ 
+
 U ovom projektu sam unutar IDE-a Visual Studio koristio NuGete:
 -NUnit framework 
 -Selenium WebDriver 
